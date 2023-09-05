@@ -56,6 +56,10 @@ no changes added to commit (use "git add" and/or "git commit -a")
 - `git merge`: Merges changes from different branches into a single branch. This branch can be the main branch or a seperate branch.
 - `git checkout`: Switches between different branches
 
+# My Unique Touch
+## Describe something that sets you apart from others:
+- Something that sets me apart from others would be the high standards I hold myself to once I begin working on a project, as well as my naturally curly hair.
+
 
 
 
