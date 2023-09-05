@@ -26,5 +26,11 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+# Purpose of the following commands
+- `mkdir`: Creates a new directory
+- `cd`: Changes directory
+- `code`: Opens a visual basics code inside of your chosen folder
+- `ls`: Lists content of chosen directory
+
 
 
