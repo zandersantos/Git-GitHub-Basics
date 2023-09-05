@@ -44,5 +44,18 @@ no changes added to commit (use "git add" and/or "git commit -a")
 - Integrate: The Version Control system can be integrated with other beneficial tools.
 - Support Auditing: Enables users to track changes.
 
+# Purpose of the following Git Commands
+- `git init`: Creates a new repository.
+- `git status`: Displays the current status of the repository.
+- `git add`: Adds file(s) to the staging area for the next commit to the repository.
+- `git commit`: Records and moves files from the staging area to the repository. It also creates a snapshot of the changes as well as the data about the commit including the author's name and email address, date and time of the commit, and commit message if inputed once prompted.
+- `git push`: Pushes the local changes made to the remote repository.
+- `git pull`: Grabs the changes made in the remote repository and merges those changes into the local repository.
+- `git log`: Displays the list of all commits in a repository's history.
+- `git branch`: Creates a new branch that allows an individual to create a new working copy of the code that exists independently of the main branch and any other branch. An individual can create as many branches as they need.
+- `git merge`: Merges changes from different branches into a single branch. This branch can be the main branch or a seperate branch.
+- `git checkout`: Switches between different branches
+
+
 
 
